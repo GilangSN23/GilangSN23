@@ -1,5 +1,5 @@
 <!-- GITHUB PROFILE README -->
-<h1 align="center">Hi there 👋, I'm Gilang</h1>
+<h1 align="center">Hi there 👋, I'm Gilang SN</h1>
 <h3 align="center">💻 Informatics Student | 📱 Mobile Developer | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
@@ -52,3 +52,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:0f0f0f&section=footer"/>
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/GilangSN23/GilangSN23/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:0f0f0f&section=footer"/>
+</p>
