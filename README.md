@@ -3,28 +3,52 @@
 <h3 align="center">💻 Informatics Student | 📱 Mobile Developer | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Gilang.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Welcome+to+my+profile!;I'm+Gilang+S.+N.;Mobile+Dev+%7C+UI%2FUX+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-🌌 **About Me**
+### 🌌 About Me
 
-name: Gilang S. N.
-code: Kotlin, Python, JavaScript
-focus: Mobile Dev • UI/UX • AI & Data
-tools: Android Studio, Figma, TensorFlow Lite, Next.js
-current project: FREE - Edukasi Anti Judi Online 🎲❌
-hobbies: Cycling 🚴, Design 🎨, Research 📚
-🛠 Tech Stack
+- 🔭 I’m currently working on **FREE - Financial Resilience Education for Ex-Gambler**
+- 🌱 I’m learning **Kotlin and advanced UI/UX**
+- 💬 Ask me about **Android Dev, UI/UX, Figma**
+- 📫 Reach me at **gilangsn09@gmail.com**
+- ⚡ Fun fact: I love dark UI themes and cycling at sunset 🌇🚴‍♂️
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,react,tailwind,python,git,firebase,vscode" /> </p>
-📊 GitHub Stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gilangsn&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangsn&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangsn&layout=compact&theme=tokyonight" /> </p>
-📫 Connect With Me
+### 🛠️ Tech Stack
 
-<p align="center"> <a href="https://www.linkedin.com/in/gilangsn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:gilangsn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://gilangsn.my.id"><img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> </p>
-💬 "Coding with coffee ☕, designing with love 💙."
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,react,tailwind,python,firebase,git,vscode" />
+</p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=100&section=footer"/> </p>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GilangSN23&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GilangSN23&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangSN23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:gilangsn09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gilangsrinayaka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://gilangsn23.github.io/GSN_Porto"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:0f0f0f&section=footer"/>
+</p>
+
