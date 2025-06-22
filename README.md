@@ -4,7 +4,7 @@
 <h3 align="center">💻 Informatics Student | 📱 Mobile Developer | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DD5ED&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Gilang+S.+N.;Mobile+Dev+%7C+UI%2FUX+%7C+UI/UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DD5ED&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Gilang+SN.;Mobile+Dev+%7C+UI%2FUX+%7C+Frontend" alt="Typing SVG" />
 </p>
 
 ---
