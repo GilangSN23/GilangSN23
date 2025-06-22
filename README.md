@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:0f0f0f&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4e54c8,8f94fb&section=footer"/>
 </p>
 
 ---
