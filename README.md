@@ -46,10 +46,8 @@
   <a href="https://gilangsn23.github.io/GSN_Porto"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4e54c8,8f94fb&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=373B44,4286f4&section=footer"/>
 </p>
 
 ---
