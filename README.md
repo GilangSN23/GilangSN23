@@ -12,10 +12,9 @@
 ### 🌌 About Me
 
 - 🔭 Currently working on **FREE - Financial Resilience Education for Ex-Gambler**
-- 🌱 Exploring **Kotlin**, **TensorFlow Lite**, and **advanced UI/UX**
+- 🌱 Exploring **Kotlin** and **advanced UI/UX**
 - 💬 Ask me about **Android Dev, UI/UX Design, and Figma**
 - 📫 Reach me at: **gilangsn09@gmail.com**
-- ⚡ Fun fact: I love dark UIs and cycling at sunset 🌇🚴‍♂️
 
 ---
 
