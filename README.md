@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/gilangsrinayaka/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://gilangsn23.github.io/GSN_Porto">
+  <a href="https://gilangsn.dev/">
     <img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -211,7 +211,7 @@ Universitas Muhammadiyah Surakarta
   <a href="https://www.linkedin.com/in/gilangsrinayaka/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://gilangsn23.github.io/GSN_Porto">
+  <a href="https://gilangsn.dev/">
     <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
