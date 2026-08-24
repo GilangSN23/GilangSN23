@@ -5,18 +5,10 @@
 ### Building useful products with clean code & thoughtful design.
 
 <p>
-  <a href="https://github.com/GilangSN23">
-    <img src="https://img.shields.io/badge/GitHub-GilangSN23-18181B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gilangsrinayaka/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gilang%20Sri%20Nayaka-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://gilangsn.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-gilangsn.dev-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:gilangsn09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/GilangSN23"><img src="https://img.shields.io/badge/GitHub-GilangSN23-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gilangsrinayaka/"><img src="https://img.shields.io/badge/LinkedIn-Gilang%20Sri%20Nayaka-18181B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://gilangsn.dev/"><img src="https://img.shields.io/badge/Portfolio-gilangsn.dev-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:gilangsn09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=6DD5ED&center=true&vCenter=true&width=700&lines=Software+Engineer;Android+%7C+Frontend+Developer;UI%2FUX+%7C+Quality+Assurance;Turning+ideas+into+useful+products." />
@@ -25,23 +17,23 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Gilang Sri Nayaka**, an Informatics Engineering graduate and software engineer focused on building **mobile applications, modern web interfaces, and user-centered digital products**.
 
 I enjoy working across the product lifecycle — from **UI/UX and frontend implementation** to **API integration, testing, and machine-learning integration**.
 
-- 📱 Android & Mobile Development
-- 🌐 Frontend Development
-- 🎨 UI/UX & Design Systems
-- 🔌 REST API Integration
-- 🧪 Software Quality Assurance
-- 🤖 Machine Learning Integration
-- 📍 Surakarta, Indonesia
+- Android & Mobile Development
+- Frontend Development
+- UI/UX & Design Systems
+- REST API Integration
+- Software Quality Assurance
+- Machine Learning Integration
+- Surakarta, Indonesia
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,13 +53,13 @@ I enjoy working across the product lifecycle — from **UI/UX and frontend imple
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 S-MIND
+### S-MIND
 **Mental Health Prediction**
 
 Android application that combines self-assessment with an **XGBoost** prediction model through a Flask REST API.
@@ -77,7 +69,7 @@ Android application that combines self-assessment with an **XGBoost** prediction
 </td>
 <td width="50%">
 
-### 🤟 SignARGI
+### SignARGI
 **Sign Language Recognition**
 
 Android application for real-time sign-language gesture recognition using the device camera and **TensorFlow Lite**.
@@ -89,7 +81,7 @@ Android application for real-time sign-language gesture recognition using the de
 <tr>
 <td width="50%">
 
-### 📊 Production Management System
+### Production Management System
 **MSME Operations Platform**
 
 Web-based management system covering employees, job desks, task distribution, and operational data.
@@ -99,7 +91,7 @@ Web-based management system covering employees, job desks, task distribution, an
 </td>
 <td width="50%">
 
-### 🌐 OutSync Studio
+### OutSync Studio
 **Digital Product Studio**
 
 Modern web experience built for a digital product and creative studio.
@@ -112,43 +104,15 @@ Modern web experience built for a digital product and creative studio.
 
 ---
 
-## 💼 Experience
+## Certifications
 
-**Front-End & UI/UX Designer — CV Kadang Koding Indonesia**  
-`Apr 2025 – Jun 2025`
-
-- Developed responsive web interfaces using Next.js and Tailwind CSS
-- Collaborated with UI/UX and backend teams
-- Redesigned 3+ MSME websites with 70+ design sections
-
-**UI/UX Designer & Quality Assurance — Overlogic ID**  
-`Jul 2024 – Apr 2026`
-
-- Designed interfaces and reusable design systems for application projects
-- Improved onboarding flows based on user feedback
-- Created test cases and performed manual frontend testing
-- Contributed to real-world QA and product development workflows
+- **Bangkit Academy 2024 — Mobile Development**
+- **Flutter and Dart: Developing iOS, Android, and Mobile Apps** — IBM
+- **Mobile App Notification, Database, & Publishing** — IBM
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Informatics Engineering**  
-Universitas Muhammadiyah Surakarta
-
-**GPA: 3.73 / 4.00** · `2022 – 2026`
-
----
-
-## 📜 Certifications
-
-- 🎓 **Bangkit Academy 2024 — Mobile Development**
-- 📱 **Flutter and Dart: Developing iOS, Android, and Mobile Apps** — IBM
-- 🔔 **Mobile App Notification, Database, & Publishing** — IBM
-
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -163,7 +127,7 @@ Universitas Muhammadiyah Surakarta
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
