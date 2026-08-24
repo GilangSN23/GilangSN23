@@ -116,18 +116,12 @@ Modern web experience built for a digital product and creative studio.
 
 <div align="center">
 
-<a href="https://github.com/GilangSN23/github-readme-stats-fast">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GilangSN23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-</a>
-<a href="https://github.com/GilangSN23/github-readme-stats-fast">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GilangSN23&theme=tokyonight&hide_border=true" width="49%" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GilangSN23&theme=tokyonight" width="100%" />
 
 <br />
 
-<a href="https://github.com/GilangSN23/github-readme-stats-fast">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GilangSN23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GilangSN23&theme=tokyonight" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=GilangSN23&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
