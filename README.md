@@ -116,12 +116,18 @@ Modern web experience built for a digital product and creative studio.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GilangSN23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GilangSN23&theme=tokyonight&hide_border=true" width="49%" />
+<a href="https://github.com/GilangSN23/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GilangSN23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+</a>
+<a href="https://github.com/GilangSN23/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GilangSN23&theme=tokyonight&hide_border=true" width="49%" />
+</a>
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangSN23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<a href="https://github.com/GilangSN23/github-readme-stats-fast">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GilangSN23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</a>
 
 </div>
 
