@@ -43,11 +43,11 @@ I enjoy working across the product lifecycle — from **UI/UX and frontend imple
 
 ### Mobile & Frontend
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,angular,tailwind,html,css" />
 
 ### Backend, Database & Tools
 
-<img src="https://skillicons.dev/icons?i=flask,firebase,git,github,vscode,postman,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=flask,spring,firebase,git,github,vscode,postman,figma,vercel" />
 
 </div>
 
