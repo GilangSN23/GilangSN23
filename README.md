@@ -131,7 +131,9 @@ Modern web experience built for a digital product and creative studio.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GilangSN23&theme=tokyonight" alt="GitHub Contribution Graph" width="100%" />
+<a href="https://github.com/GilangSN23">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilangSN23&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Gilang%27s%20Contribution%20Graph" alt="Gilang's GitHub Contribution Graph" width="100%" />
+</a>
 
 </div>
 
