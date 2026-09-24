@@ -132,8 +132,12 @@ Modern web experience built for a digital product and creative studio.
 <div align="center">
 
 <a href="https://github.com/GilangSN23">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilangSN23&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Gilang%27s%20Contribution%20Graph" alt="Gilang's GitHub Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilangSN23&bg_color=0d1117&color=6DD5ED&line=6DD5ED&point=ffffff&area_color=6DD5ED&area=true&hide_border=true&radius=12&custom_title=Gilang%27s%20Contribution%20Graph" alt="Gilang's GitHub Contribution Graph" width="100%" />
 </a>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 
 </div>
 
