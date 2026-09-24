@@ -131,7 +131,7 @@ Modern web experience built for a digital product and creative studio.
 
 <div align="center">
 
-<img src="https://github.com/GilangSN23/GilangSN23/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GilangSN23&theme=tokyonight" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
 
